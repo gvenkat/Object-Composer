@@ -5,7 +5,7 @@ use warnings;
 use Carp;
 
 
-our $VERSION = q(0.0.1);
+our $VERSION = q(0.0.2);
 
 
 sub import {
